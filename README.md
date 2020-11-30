@@ -1,2 +1,2 @@
 # Term-Deposit-Classification
-Logistic Regression ve Sinir Ağları ile Müşterilerin vadeli mevudata abone olup olmadığını sınıflandırmasını yaptık
+Logistic Regression ve Sinir Ağları ile Müşterilerin vadeli mevduata abone olup olmadığını sınıflandırmasını yaptık
